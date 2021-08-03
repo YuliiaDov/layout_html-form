@@ -1,1 +1,24 @@
-/* styles go here */
+body {
+  margin-bottom: 20px;
+}
+
+.form-field {
+  margin: 5px;
+
+}
+
+.field-personal-info {
+  margin-bottom: 20px;
+}
+
+.field-registration {
+  margin-bottom: 20px;
+}
+
+.field-facts {
+  margin-bottom: 20px;
+}
+
+.field-add-info {
+  margin-bottom: 20px;
+}
